@@ -1,0 +1,21 @@
+{
+  "name": "school-finder",
+  "authors": [
+    "GeoffWilson <geoff_wilson_1992@hotmail.co.uk>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6"
+  }
+}
